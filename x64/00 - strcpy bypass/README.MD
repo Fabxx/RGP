@@ -20,3 +20,5 @@ revert strcmp() condition, instead of JNZ use JZ, if a string is different will 
 opcode JNZ address: `0x0000000000000000 + 0x400609`
 
 constant DWORD PTR address for string AAAA-Z10N-42-OK: `0x0000000000000000 + 0x4005FA`
+
+C++ Code has been written from scratch
