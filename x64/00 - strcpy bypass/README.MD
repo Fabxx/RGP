@@ -3,7 +3,7 @@
 
 x86_64 ELF Little-Endian
 
-# Bypass method
+# Coe Behavior
 
 
 - first CMP instruction verifies if argument is given, if not prints usage message
